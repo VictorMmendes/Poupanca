@@ -1,0 +1,122 @@
+.nav-group-item {
+    font-size: 12px;
+}
+
+header.toolbar-header {
+	-webkit-app-region: drag;
+}
+
+th.right_option
+{
+	width: 8px;
+}
+
+td.right_option
+{
+	width: 8px;
+}
+
+.confirm
+{
+    margin-left: 37%;
+}
+
+.acoes
+{
+    margin-bottom: -10px;
+}
+
+h2
+{
+    margin-top: 0%;
+}
+
+a
+{
+    text-decoration: none;
+    color: #333;
+}
+
+.pessoaNome
+{
+    margin-left: 41%;
+}
+
+.pessoaSaldo
+{
+    color: #62af4d;
+}
+
+#confirmarSenha
+{
+    color: #fc605b;
+    margin-top: -40px;
+    display: none;
+}
+
+#confirmarSenha p
+{
+    margin-top: 2px;
+    padding-left: 70%;
+    margin-bottom: -8px;
+    visibility: hidden;
+}
+
+input[type="button"]:disabled
+{
+    color: #333;
+}
+
+.form-control
+{
+    width: 80%;
+}
+
+.actions
+{
+    margin-left: 1%;
+    width: 12%;
+}
+
+#saldoParticular
+{
+    border: none;
+    background-color:white;
+}
+
+th
+{
+    font-weight: bold;
+}
+
+tr.highlight td
+{
+    padding-top: 2%;
+    font-size: 12px;
+    font-weight: bold;
+    color: #57acf5;
+}
+
+.saldo
+{
+    border: none;
+    background-color: transparent;
+}
+
+#efetivar:disabled
+{
+    background: #ddd;
+    border-color: #ddd;
+}
+
+#warning
+{
+    visibility: hidden;
+    color: red;
+    padding-left: 49%;
+    margin-top: 2px;
+}
+
+form {
+	padding: 50px;
+}
